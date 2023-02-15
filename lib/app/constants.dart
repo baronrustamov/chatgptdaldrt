@@ -6,7 +6,7 @@ class Constants {
   static const String baseUrl = "https://api.openai.com/v1";
   static const String endPointImage = "/images/generations";
   static const String endPointText= "/completions";
-  static const int apiTimeOut = 600;
+  static const int apiTimeOut = 6000;
   static const String OPEN_AI_KEY="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";
   static const String empty = "";
   static const int zero = 0;
